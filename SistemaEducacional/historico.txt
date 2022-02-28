@@ -1,0 +1,6 @@
+Historico
+
+
+Nome Fisica, notas= [0 0 0 0 ] - REPROVADO	Professor: Rubens
+Nome MecFlu, notas= [0 0 0 ] - REPROVADO	Professor: Leo
+Nome Termo, notas= [0 0 0 0 0 ] - REPROVADO	Professor: Fabiana
